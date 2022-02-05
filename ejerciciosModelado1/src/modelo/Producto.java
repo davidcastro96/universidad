@@ -9,4 +9,5 @@ public class Producto {
     private String nombreFabricante;
     private int cantidad;
     private Float precioUnitario;
+    private Tienda tienda;
 }
